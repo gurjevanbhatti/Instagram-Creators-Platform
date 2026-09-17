@@ -1,0 +1,47 @@
+{
+  "organic_insights_reach": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Date Range": {
+          "href": "",
+          "value": "Apr 29 - Jul 27",
+          "timestamp": 0
+        },
+        "Accounts Reached": {
+          "href": "",
+          "value": "2516778",
+          "timestamp": 0
+        },
+        "Followers": {
+          "href": "",
+          "value": "0.7%",
+          "timestamp": 0
+        },
+        "Non-Followers": {
+          "href": "",
+          "value": "99.3%",
+          "timestamp": 0
+        },
+        "Impressions": {
+          "href": "",
+          "value": "6,263,663",
+          "timestamp": 0
+        },
+        "Profile visits": {
+          "href": "",
+          "value": "395,396",
+          "timestamp": 0
+        },
+        "External link taps": {
+          "href": "",
+          "value": "11,182",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}
