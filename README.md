@@ -1,6 +1,4 @@
-# CMPT353-Project
-
-# CMPT 353 Project — Instagram Engagement Analysis
+# Instagram Engagement Analysis
 
 ## Overview
 This project analyzes my Instagram post data to identify patterns in engagement (likes, comments, shares, saves) based on features like caption length, hashtags, post timing, and reel type. It uses statistical tests, clustering, and classification models to explore what factors drive higher engagement.
